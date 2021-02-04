@@ -20,4 +20,4 @@ Agenda desarrollada Android Studio, la aplicacion APK ya instalada en un disposi
 
 ## Descarga El APK
 
-Descarga `APK` clic en el siguiente enlace [Ionic Chat](https://github.com/XJaramillo/Ionic_Chat/raw/Chat/app-debug.apk). :white_check_mark:
+Descarga `APK` clic en el siguiente enlace [AGENDA](https://github.com/XJaramillo/Ionic_Chat/raw/Chat/app-debug.apk). :white_check_mark:
