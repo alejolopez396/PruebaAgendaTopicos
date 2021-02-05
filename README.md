@@ -19,7 +19,7 @@ Agenda desarrollada Android Studio, la aplicacion APK ya instalada en un disposi
 * *Se Necesita versión de Android 6 o más
 
 ## Enlace del video
-Clic en el siguiente enlace [Video explicativo de la aplicación ](https://youtu.be/X8uaVe6NBqA). :white_check_mark:
+Clic en el siguiente enlace [Video explicativo de la aplicación ](https://youtu.be/JnjdHtM69pU). :white_check_mark:
 
 
 # 1 *Capturas del Login y Firebase.*
