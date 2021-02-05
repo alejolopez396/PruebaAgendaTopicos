@@ -8,7 +8,7 @@
 * *Josue Garrido* 
 * *Xavier Jaramillo*
 
-Agenda desarrollada Android Studio, la aplicacion APK ya instalada en un dispositvo permitira crear y borrar mensajes que conjutamente se iran guardando en Firebase de Google, los registros de los usuarios se iran guardando constantemente.
+Agenda desarrollada Android Studio, la aplicacion APK ya instalada en un dispositvo permitira crear, editar y borrar contactos que conjutamente se iran guardando en Firebase de Google, los registros de los usuarios se iran guardando constantemente.
 
 :mailbox: :email:
 
