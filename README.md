@@ -18,6 +18,6 @@ Agenda desarrollada Android Studio, la aplicacion APK ya instalada en un disposi
 
 * *Se Necesita versión de Android 6 o más
 
-## Descarga El APK
+## Video Explicativo
 
 Descarga `APK` clic en el siguiente enlace [AGENDA](https://github.com/XJaramillo/Ionic_Chat/raw/Chat/app-debug.apk). :white_check_mark:
