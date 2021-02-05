@@ -22,7 +22,7 @@ Agenda desarrollada Android Studio, la aplicacion APK ya instalada en un disposi
 Clic en el siguiente enlace [Video explicativo de la aplicación ](https://youtu.be/X8uaVe6NBqA). :white_check_mark:
 
 
-# 2 *Capturas del Login y Firebase.*
+# 1 *Capturas del Login y Firebase.*
 
 <img src="../master/Capturas App/1.png" alt="My cool logo"/>
 <img src="../master/Capturas App/2.png" alt="My cool logo"/>
@@ -33,8 +33,13 @@ Clic en el siguiente enlace [Video explicativo de la aplicación ](https://youtu
 <img src="../master/Capturas App/7.png" alt="My cool logo"/>
 
 
-# 3 *Grabación de audio mediante el grabador provisto por Android.*
-
+# 2 *Capturas de la Agenda y Firebase.*
+<img src="../master/Capturas App/8.png" alt="My cool logo"/>
+<img src="../master/Capturas App/9.png" alt="My cool logo"/>
+<img src="../master/Capturas App/10.png" alt="My cool logo"/>
+<img src="../master/Capturas App/11.png" alt="My cool logo"/>
+<img src="../master/Capturas App/12.png" alt="My cool logo"/>
+<img src="../master/Capturas App/13.png" alt="My cool logo"/>
 
 
 
